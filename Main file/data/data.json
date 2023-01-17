@@ -1,0 +1,56 @@
+[
+    {"id" : 0,
+    "customerName" : "vito",
+    "phoneNumber" : "999-999-9999",
+    "address" : "tempe",
+    "loanAmount" : 5000,
+    "interest": 0.01,
+    "loanTermYears" : 1,
+    "loanType": "None",
+    "description": "None"
+    },
+
+    {"id" : 1,
+    "customerName" : "jack",
+    "phoneNumber" : "901-931-1923",
+    "address" : "galendal",
+    "loanAmount" : 104134,
+    "interest": 0.14,
+    "loanTermYears" : 5,
+    "loanType": "None",
+    "description": "None"
+    },
+
+    {"id" : 2,
+    "customerName" : "logic",
+    "phoneNumber" : "999-187-1233",
+    "address" : "phoenix",
+    "loanAmount" : 68213,
+    "interest": 0.20,
+    "loanTermYears" : 10,
+    "loanType": "None",
+    "description": "None"
+    },
+
+    {"id" : 3,
+    "customerName" : "james",
+    "phoneNumber" : "912-122-1324",
+    "address" : "tempe",
+    "loanAmount" : 10000,
+    "interest": 0.06,
+    "loanTermYears" : 10,
+    "loanType": "None",
+    "description": "None"
+    },
+
+    {"id" : 4,
+    "customerName" : "soap",
+    "phoneNumber" : "999-145-2351",
+    "address" : "tempe",
+    "loanAmount" : 56089,
+    "interest": 0.101,
+    "loanTermYears" : 10,
+    "loanType": "None",
+    "description": "None"
+    }
+]
