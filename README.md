@@ -1,4 +1,1 @@
-# IFT598MIDDLEWARE_Module1_Introduction_WebBackEnd
-MODULE 1 HOMEWORK 2 for dsthapit@asu.edu
-
-From student Jiawei Zheng
+# IFT598-Module-2-Assignment-ES6-Modern-JavaScript
